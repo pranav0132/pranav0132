@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/pranav0132?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="290px" align="right" style="margin-top: 10px;  />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="290px" align="right" style="margin-top: 10px;" />
 
 <h2>⚡️ About Me </h2>
 
