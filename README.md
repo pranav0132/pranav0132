@@ -13,11 +13,13 @@
 
 <h2>⚡️ About Me </h2>
 <hr />
-- ✨ I’m Pranav Sharma. 
-- 🌱 I’m currently enhancing my full-stack development skills and diving deeper into **Artificial Intelligence and Machine Learning**.
-- 💬 Ask me about **JavaScript, React, Node.js, Python, and AI/ML**.
-- 🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
-- 📫 How to reach me: **pranavs0191@gmail.com**
+<ul>
+    <li>✨ I’m Pranav Sharma.</li> 
+    <li>🌱 I’m currently enhancing my full-stack development skills and diving deeper into <b>Artificial Intelligence and Machine Learning</b></li>
+    <li>💬 Ask me about <b>JavaScript, React, Node.js, Python, and AI/ML </b> </li>
+    <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</li>
+    <li>📫 How to reach me: <b>pranavs0191@gmail.com</b></li>
+</ul>
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
