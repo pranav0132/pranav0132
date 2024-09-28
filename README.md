@@ -40,9 +40,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav0132&theme=rogue" alt="GitHub Activity Graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav0132&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="pranav0132" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=pranav0132&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="pranav0132" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav0132&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="pranav0132" />
+
+
 <br />
 <h3>🔗 Connect with me:</h3>
 <p align="left">
