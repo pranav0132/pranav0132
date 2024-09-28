@@ -8,8 +8,8 @@
 <h3 align="center">A passionate Full Stack Developer and AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prnav0132&label=Profile%20views&color=0e75b6&style=flat" alt="prnav0132" />
-  <img src="https://img.shields.io/github/followers/prnav0132?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=pranav0132&label=Profile%20views&color=0e75b6&style=flat" alt="prnav0132" />
+  <img src="https://img.shields.io/github/followers/pranav0132?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ### 🚀 About Me:
