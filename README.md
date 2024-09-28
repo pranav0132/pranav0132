@@ -33,7 +33,7 @@
 
 </p>
 <br />
-### 📊 GitHub Stats:
+<h3>📊 GitHub Stats: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranav0132&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -43,7 +43,7 @@
 </p>
 
 <br />
-### 🔗 Connect with me:
+<h3>🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
