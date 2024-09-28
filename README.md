@@ -42,21 +42,12 @@
   <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/pranav0132" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <p align="left">
-  <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
   
   <a href="https://github.com/pranav0132" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
   
   <a href="mailto:pranavs0191@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" height="30" width="40" />
   </a>
-</p>
-
 </p>
