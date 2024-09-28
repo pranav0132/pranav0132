@@ -48,6 +48,7 @@
   </a>
   
   <a href="mailto:pranavs0191@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png" alt="Email" height="30" width="40" />
   </a>
 </p>
+
