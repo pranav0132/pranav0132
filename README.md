@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <hr />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB1B&center=true&vCenter=true&width=435&lines=I'm+Pranav+Sharma.;I'm+a+Full+Stack+developer.;Always+Learning+new+things.)](https://git.io/typing-svg)
-
-
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB1B&center=true&vCenter=true&width=435&lines=I'm+Pranav+Sharma.;I'm+a+Full+Stack+developer.;Always+Learning+new+things." alt="Typing SVG" /></a>
+</p>
 
 <h3 align="center">A passionate Full Stack Developer and AI/ML Enthusiast</h3>
 
@@ -13,8 +12,10 @@
 </p>
 
 ### 🚀 About Me:
+- ✨ I’m Pranav Sharma. 
 - 🌱 I’m currently enhancing my full-stack development skills and diving deeper into **Artificial Intelligence and Machine Learning**.
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and AI/ML**.
+- 🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
 - 📫 How to reach me: **pranavs0191@gmail.com**
 
 ### 🛠️ Languages and Tools:
@@ -38,6 +39,13 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/pranav0132" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/pranav0132" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:pranavs0191@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Pranav%20Sharma-fff?style=plastic&labelColor=fff&logo=Gmail&logoColor=red" alt="Gmail Badge" height="30" width="120" />
+  </a>
 </p>
