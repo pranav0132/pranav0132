@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <hr />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB1B&center=true&vCenter=true&width=435&lines=I'm+Pranav+Sharma.;I'm+a+Full+Stack+developer.;Always+Learning+new+things.)](https://git.io/typing-svg)
 
 
