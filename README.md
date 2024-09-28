@@ -12,7 +12,7 @@
 </p>
 
 <h2>⚡️ About Me </h2>
-<hr />
+
 <ul>
     <li>✨ I’m Pranav Sharma.</li> 
     <li>🌱 I’m currently enhancing my full-stack development skills and diving deeper into <b>Artificial Intelligence and Machine Learning</b></li>
@@ -20,6 +20,7 @@
     <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</li>
     <li>📫 How to reach me: <b>pranavs0191@gmail.com</b></li>
 </ul>
+<br />
 
 <h3>🛠️ Languages and Tools:</h3> 
 <p align="left"> 
@@ -31,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 </p>
-
+<br />
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranav0132&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -41,6 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav0132&theme=rogue" alt="GitHub Activity Graph" />
 </p>
 
+<br />
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
