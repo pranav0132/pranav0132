@@ -45,7 +45,18 @@
   <a href="https://github.com/pranav0132" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="mailto:pranavs0191@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Pranav%20Sharma-fff?style=plastic&labelColor=fff&logo=Gmail&logoColor=red" alt="Gmail Badge" height="30" width="120" />
+  <p align="left">
+  <a href="https://linkedin.com/in/pranav-sharma-48862a216/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  
+  <a href="https://github.com/pranav0132" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:pranavs0191@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
 </p>
