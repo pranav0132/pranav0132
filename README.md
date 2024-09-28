@@ -35,12 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a deep 
 ---
 
 ### 📊 **GitHub Stats**:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prnav0132&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnav0132&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
+[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav0132)](https://github.com/pranav0132/github-readme-stats)
 
 ### 🚀 **Featured Projects**:
 Here are a few of the cool projects I’ve worked on:
