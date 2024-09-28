@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/github/followers/pranav0132?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-### 🚀 About Me:
+<h2>⚡️ About Me </h2>
+<hr />
 - ✨ I’m Pranav Sharma. 
 - 🌱 I’m currently enhancing my full-stack development skills and diving deeper into **Artificial Intelligence and Machine Learning**.
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and AI/ML**.
