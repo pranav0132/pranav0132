@@ -57,9 +57,5 @@
   <a href="https://github.com/pranav0132" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
-  
-  <a href="mailto:pranavs0191@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png" alt="Email" height="30" width="40" />
-  </a>
 </p>
 
