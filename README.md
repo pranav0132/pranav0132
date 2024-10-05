@@ -17,7 +17,7 @@
 <h2>⚡️ About Me </h2>
 
 <ul>
-    <li>✨ I’m Pranav Sharma.</li> 
+    <li>✨<b> I’m Pranav Sharma.</b></li> 
     <li>🌱 I’m currently enhancing my full-stack development skills and diving deeper into <b>Artificial Intelligence and Machine Learning</b></li>
     <li>💬 Ask me about <b>JavaScript, React, Node.js, Python, and AI/ML </b> </li>
     <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</li>
