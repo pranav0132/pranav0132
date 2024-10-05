@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB1B&center=true&vCenter=true&width=435&lines=I'm+Pranav+Sharma.;I'm+a+Full+Stack+developer.;Always+Learning+new+things." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB1B&center=true&vCenter=true&width=435&lines=I'm+Pranav+Sharma.;Always+Learning+new+things." alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">A passionate Full Stack Developer and AI/ML Enthusiast</h3>
